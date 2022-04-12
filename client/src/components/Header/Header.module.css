@@ -1,0 +1,33 @@
+.logo {
+    height: 90%;
+    border-radius:30%;
+    margin-left: 10px;
+}
+.text {
+    margin: 0;
+    display: flex;
+    color: white;
+}
+
+.header{
+    width: 100%;
+    background-color: rgb(125, 63, 201);
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button{
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15%;
+    background-color: white;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar{
+    display: flex;
+}
